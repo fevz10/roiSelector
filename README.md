@@ -1,6 +1,8 @@
 # ROI(Region of Interest) Selector for the Counting Applications
 
-![Alt Text](sources/selectROI.gif)
+<p align="center">
+  <img src="sources/selectROI.gif" alt="animated" />
+</p>
 
 - Hi there. This repo was created to determine the scene's regions of interest and save it in json format for use in object counting applications.
 - As someone who has just started learning the C++ programming language, I wanted to make a good start by converting this repo written in Python to C++.([<img height="16" width="16" src="https://unpkg.com/simple-icons@v6/icons/python.svg" />](https://github.com/Acuno41/roiSelector-opencv-python))
