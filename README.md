@@ -10,8 +10,8 @@
 $ git clone https://github.com/fevz10/roiSelector.git
 ```
 
-## Compiling the Project
-### Compiling with CMake
+## Compiling the Project :rocket:
+### Compiling with CMake <img height="16" width="16" src="https://unpkg.com/simple-icons@v6/icons/cmake.svg" />
 ```bash
 $ cd roiSelector
 $ mkdir build && cd build
